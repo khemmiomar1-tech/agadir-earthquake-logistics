@@ -1,0 +1,3 @@
+model,loocv_mae,loocv_rmse
+RandomForest,53.03,62.99
+GradientBoosting,53.07,62.74
