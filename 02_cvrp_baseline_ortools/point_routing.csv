@@ -1,0 +1,19 @@
+X,Y,fid,nom_etablissement,original_id,cluster_id,bp_zone_id,type_point,methode_selection,bp_id,nom_depot,capacite,source,layer,path,routing_id
+99410.4922226157,388127.312450456,1, E. ATTAHER AL IFRANI,AGD_023,6,1,BP,centralite_zone,BP_1,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_1
+98180.9792707824,387172.716980667,2,E FATIMA AL FIHRYA,AGD_006,6,1,BP,centralite_zone,BP_2,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_2
+101344.777715491,386181.440270891,3,E AL MOUJAHIDINE,AGD_015,6,0,BP,,BP_3,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_3
+100371.348949828,384162.071303002,4,E ABDALLAH AL GUERSIFI,AGD_024,6,2,BP,,BP_4,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_4
+89288.6824805264,406780.391821952,5,S/S. SIDI SAID OUHMAD- IKOUZA,AGD_070,2,0,BP,centralite_zone,BP_5,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_5
+93480.7902022186,395494.694595422,6,E ASSERKIT,AGD_035,2,1,BP,centralite_zone,BP_6,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_6
+91898.5457289004,391542.883472342,7,E. ABDELMOUMEN BEN ALI,AGD_028,2,2,BP,centralite_zone,BP_7,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_7
+124088.779964993,423679.79864395,8,E. IMAM BOUKHARI - TIQQI,AGD_068,3,1,BP,centralite_zone,BP_8,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_8
+114291.214049649,428360.765576701,9,S/S. HALIMA SAADIA- AGUERSOUAK,AGD_062,3,2,BP,centralite_zone,BP_9,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_9
+123268.753485734,399128.503787338,10,SS TOURAR TOURAR,AGD_041,4,1,BP,centralite_zone,BP_10,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_10
+116969.30876784,383230.976796042,11,S/S. AL HIDAYA- TAMAIT IZDER,AGD_046,4,2,BP,centralite_zone,BP_11,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_11
+80942.2117148071,435243.29852726,12,S/S. MOULAY ZIDANE- ID BOUABBA,AGD_074,5,1,BP,centralite_zone,BP_12,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_12
+84221.4507870161,420122.160361646,13,SS ANNAKHIl TIKIOUINE,AGD_081,5,2,BP,centralite_zone,BP_13,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_13
+108442.913866108,382415.365061662,14,E. AL IMAM CHAFII,AGD_043,6,2,BP,centralite_zone,BP_14,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_14
+101052.857584418,381881.298605506,15,E. BIR ANZARANE,AGD_031,6,3,BP,centralite_zone,BP_15,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_15
+107582.21790796,416120.153291567,16,S/S. TIDILI- TIDILI,AGD_056,7,1,BP ,centralite_zone,BP_16,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_16
+121522.17294673,409640.672503084,17,S/S. ABDALLAH IBN YASSINE- DOUTSOULILT,AGD_060,7,2,BP,centralite_zone,BP_17,,,,BP_selectionnes,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=BP_selectionnes,BP_17
+114484.958053278,376257.713598283,18,,,,,Depot,,,Depot principal Agadir ,10000,choix_scenario,Depot_aides,C:/Users/lenovo/Documents/PFE_Seisme_Agadir.gpkg|layername=Depot_aides,DEPOT_18

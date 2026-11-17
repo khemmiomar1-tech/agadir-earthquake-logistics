@@ -1,0 +1,5 @@
+vehicle,route,load,time_min
+1,DEPOT_18 -> BP_5 -> BP_13 -> BP_12 -> BP_9 -> BP_8 -> BP_17 -> BP_10 -> DEPOT_18,20,244
+2,DEPOT_18 -> BP_3 -> BP_7 -> BP_6 -> BP_16 -> BP_11 -> DEPOT_18,20,146
+3,DEPOT_18 -> BP_15 -> BP_4 -> BP_2 -> BP_1 -> DEPOT_18,19,63
+4,DEPOT_18 -> BP_14 -> DEPOT_18,6,26
