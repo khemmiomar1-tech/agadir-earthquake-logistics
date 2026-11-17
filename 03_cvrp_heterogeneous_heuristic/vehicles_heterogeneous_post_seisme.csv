@@ -1,0 +1,7 @@
+vehicle_id,type,capacity_max,beta_post,capacity_useful
+V1,small_vehicle,300,0.8,240
+V2,small_vehicle,300,0.8,240
+V3,medium_truck,700,0.7,490
+V4,medium_truck,700,0.7,490
+V5,medium_truck,700,0.7,490
+V6,light_truck,500,0.75,375
